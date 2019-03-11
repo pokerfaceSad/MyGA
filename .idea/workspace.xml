@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4151db0-1cfb-4958-9a6a-b34f77f40d04" name="Default Changelist" comment="" />
+    <list default="true" id="e4151db0-1cfb-4958-9a6a-b34f77f40d04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Data_Generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Generate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatrixIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixIndividual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constan_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/constant_define.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +75,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/constan_define.py">
+        <entry file="file://$PROJECT_DIR$/constant_define.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="196">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -120,6 +126,9 @@
       <find>无</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -143,6 +152,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -315,12 +325,12 @@
       <workItem from="1551858369049" duration="6650000" />
       <workItem from="1551929230995" duration="23887000" />
       <workItem from="1551967081581" duration="233000" />
-      <workItem from="1551967330864" duration="37193000" />
+      <workItem from="1551967330864" duration="37616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67963000" />
+    <option name="totallyTimeSpent" value="68386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -505,10 +515,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/constan_define.py">
+    <entry file="file://$PROJECT_DIR$/constant_define.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

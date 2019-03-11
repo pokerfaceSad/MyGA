@@ -2,7 +2,7 @@ import shelve
 import matplotlib.pyplot as plt
 from functools import reduce
 from MatrixIndividual import MatrixIndividual
-from constan_define import db_name, node_num, task_num, is_paint, is_save
+from constant_define import db_name, node_num, task_num, is_paint, is_save
 '''
 从Data_Generate引入全局变量
 '''

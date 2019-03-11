@@ -2,8 +2,8 @@
 import numpy as np
 import copy
 import shelve
-from constan_define import pc, pm
-from constan_define import db_name
+from constant_define import pc, pm
+from constant_define import db_name
 '''
     每个解都是一个01矩阵 矩阵的size取决于任务数量和节点数量
 '''

@@ -1,7 +1,7 @@
 import shelve
 from NodeState import NodeState
 import numpy as np
-from constan_define import task_num, node_num, db_name
+from constant_define import task_num, node_num, db_name
 
 print("数据生成")
 # 初始化节点

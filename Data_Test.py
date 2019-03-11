@@ -1,6 +1,6 @@
 import shelve
 import numpy as np
-from constan_define import db_name
+from constant_define import db_name
 
 db = shelve.open(db_name)
 node_state_list = db['node_state_list']
