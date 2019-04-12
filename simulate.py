@@ -11,11 +11,11 @@
 import os
 import main
 
-sim_num = 100
+sim_num = 1
 i = 0
 while i < sim_num:
     print("第%d次仿真" % (i+1))
-    os.system("python Data_Generate.py")
+    # os.system("python Data_Generate.py")
     os.system("python Data_Test.py")
     # 如果产生了有效解则加1
     if main.run(i) == 1:

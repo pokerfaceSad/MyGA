@@ -1,4 +1,4 @@
-node_num = 10
+node_num = 30
 task_num = 1500
 pc = 0.8
 pm = 0.3

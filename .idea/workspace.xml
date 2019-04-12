@@ -2,11 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4151db0-1cfb-4958-9a6a-b34f77f40d04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min-min.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyGA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyGA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_Generate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Generate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatrixIndividual.py" beforeDir="false" afterPath="$PROJECT_DIR$/MatrixIndividual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constan_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/constant_define.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constant_define.py" beforeDir="false" afterPath="$PROJECT_DIR$/constant_define.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.db.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.db.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.db.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result0.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result0.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result0.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result1.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result1.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result1.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result10.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result10.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result10.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result11.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result11.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result11.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result12.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result12.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result12.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result13.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result13.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result13.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result14.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result14.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result14.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result15.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result15.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result15.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result16.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result16.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result16.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result17.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result17.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result17.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result18.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result18.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result18.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result19.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result19.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result19.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result2.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result2.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result2.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result20.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result20.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result20.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result21.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result21.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result21.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result22.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result22.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result22.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result23.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result23.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result23.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result24.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result24.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result24.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result25.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result25.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result25.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result26.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result26.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result26.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result27.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result27.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result27.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result28.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result28.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result28.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result29.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result29.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result29.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result3.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result3.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result3.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result30.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result30.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result30.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result31.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result31.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result31.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result32.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result32.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result32.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result33.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result33.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result33.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result34.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result34.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result34.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result35.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result35.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result35.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result36.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result36.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result36.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result37.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result37.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result37.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result38.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result38.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result38.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result39.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result39.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result39.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result4.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result4.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result4.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result40.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result40.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result40.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result41.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result41.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result41.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result42.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result42.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result42.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result43.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result43.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result43.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result44.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result44.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result44.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result45.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result45.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result45.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result46.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result46.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result46.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result47.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result47.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result47.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result48.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result48.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result48.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result49.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result49.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result49.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result5.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result5.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result5.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result50.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result50.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result50.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result51.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result51.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result51.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result52.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result52.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result52.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result53.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result53.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result53.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result54.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result54.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result54.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result55.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result55.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result55.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result56.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result56.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result56.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result57.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result57.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result57.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result58.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result58.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result58.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result59.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result59.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result59.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result6.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result6.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result6.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result60.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result60.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result60.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result61.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result61.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result61.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result62.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result62.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result62.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result63.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result63.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result63.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result64.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result64.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result64.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result65.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result65.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result65.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result66.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result66.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result66.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result67.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result67.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result67.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result68.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result68.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result68.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result69.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result69.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result69.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result7.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result7.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result7.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result70.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result70.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result70.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result71.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result71.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result71.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result72.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result72.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result72.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result73.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result73.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result73.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result74.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result74.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result74.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result75.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result75.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result75.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result76.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result76.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result76.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result77.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result77.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result77.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result78.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result78.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result78.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result79.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result79.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result79.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result8.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result8.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result8.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result80.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result80.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result80.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result81.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result81.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result81.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result82.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result82.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result82.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result83.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result83.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result83.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result84.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result84.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result84.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result85.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result85.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result85.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result86.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result86.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result86.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result87.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result87.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result87.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result88.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result88.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result88.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result89.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result89.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result89.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result9.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result9.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result9.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result90.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result90.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result90.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result91.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result91.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result91.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result92.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result92.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result92.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result93.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result93.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result93.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result94.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result94.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result94.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result95.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result95.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result95.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result96.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result96.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result96.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result97.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result97.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result97.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result98.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result98.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result98.dir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result99.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result99.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/result99.dir" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simulate.py" beforeDir="false" afterPath="$PROJECT_DIR$/simulate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,25 +324,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/MyGA$MatrixIndividual.coverage" NAME="MatrixIndividual Coverage Results" MODIFIED="1552227514509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$Test.coverage" NAME="Test Coverage Results" MODIFIED="1551863193224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$test.coverage" NAME="test Coverage Results" MODIFIED="1552227191216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$NodeState.coverage" NAME="NodeState Coverage Results" MODIFIED="1551964313669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$Data_Generate.coverage" NAME="Data_Generate Coverage Results" MODIFIED="1552219699641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$Data_Test.coverage" NAME="Data_Test Coverage Results" MODIFIED="1552226390332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1552045179119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$shelf_test02.coverage" NAME="shelf_test02 Coverage Results" MODIFIED="1552015306740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$simulate.coverage" NAME="simulate Coverage Results" MODIFIED="1553664391407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$test.coverage" NAME="test Coverage Results" MODIFIED="1553664728794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyGA$shelf_test.coverage" NAME="shelf_test Coverage Results" MODIFIED="1552045176261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$Test.coverage" NAME="Test Coverage Results" MODIFIED="1552803926697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1552045179119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$Data_Generate.coverage" NAME="Data_Generate Coverage Results" MODIFIED="1552804322572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$constant_define.coverage" NAME="constant_define Coverage Results" MODIFIED="1552748165821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$shelf_test02.coverage" NAME="shelf_test02 Coverage Results" MODIFIED="1552015306740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MyGA$main.coverage" NAME="main Coverage Results" MODIFIED="1552228131121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MyGA$simulate.coverage" NAME="simulate Coverage Results" MODIFIED="1552228472774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$Data_Test.coverage" NAME="Data_Test Coverage Results" MODIFIED="1552743744118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$NodeState.coverage" NAME="NodeState Coverage Results" MODIFIED="1551964313669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyGA$MatrixIndividual.coverage" NAME="MatrixIndividual Coverage Results" MODIFIED="1552803588491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MatrixIndividual.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-308">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state>
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +354,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="114">
+              <caret line="8" selection-start-line="8" selection-end-line="19" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -53,8 +366,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_Generate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="475">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -65,19 +378,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="1235">
+              <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/constant_define.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="133">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
@@ -86,8 +399,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simulate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="209">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#109#118#0" expanded="true" />
               </folding>
@@ -96,12 +409,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.py">
+        <entry file="file://$PROJECT_DIR$/min-min.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="418">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,22 +460,24 @@
         <option value="$PROJECT_DIR$/Fitness.py" />
         <option value="$PROJECT_DIR$/NodeState.py" />
         <option value="$PROJECT_DIR$/shelf_test02.py" />
-        <option value="$PROJECT_DIR$/Test.py" />
         <option value="$PROJECT_DIR$/shelf_test.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/Data_Generate.py" />
-        <option value="$PROJECT_DIR$/MatrixIndividual.py" />
-        <option value="$PROJECT_DIR$/simulate.py" />
         <option value="$PROJECT_DIR$/Data_Test.py" />
         <option value="$PROJECT_DIR$/constan_define.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/constant_define.py" />
+        <option value="$PROJECT_DIR$/simulate.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/min-min.py" />
+        <option value="$PROJECT_DIR$/Data_Generate.py" />
+        <option value="$PROJECT_DIR$/Test.py" />
+        <option value="$PROJECT_DIR$/MatrixIndividual.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="y" value="23" />
+    <option name="width" value="80" />
+    <option name="height" value="22" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -166,6 +493,11 @@
               <item name="MyGA" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyGA" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyGA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGA" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,10 +506,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GaftTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -191,8 +523,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simulate">
-    <configuration name="Data_Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="Data_Generate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyGA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,7 +537,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_Generate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,7 +568,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MyGA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +581,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,7 +625,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/min-min.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,11 +636,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.simulate" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.MatrixIndividual" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Data_Test" />
+        <item itemvalue="Python.simulate" />
+        <item itemvalue="Python.Data_Generate" />
+        <item itemvalue="Python.Test" />
+        <item itemvalue="Python.MatrixIndividual" />
       </list>
     </recent_temporary>
   </component>
@@ -326,11 +658,19 @@
       <workItem from="1551929230995" duration="23887000" />
       <workItem from="1551967081581" duration="233000" />
       <workItem from="1551967330864" duration="37616000" />
+      <workItem from="1552736643847" duration="12345000" />
+      <workItem from="1553490491459" duration="1063000" />
+      <workItem from="1553664358052" duration="294000" />
+      <workItem from="1553672068162" duration="857000" />
+      <workItem from="1554463382369" duration="793000" />
+      <workItem from="1554638750760" duration="982000" />
+      <workItem from="1554813274013" duration="108000" />
+      <workItem from="1554880607213" duration="501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68386000" />
+    <option name="totallyTimeSpent" value="85329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,15 +682,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="23" width="80" height="22" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info x="1921" y="30" width="804" height="833" id="Run" order="3" type="WINDOWED" weight="0.4772118" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39886847" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39854014" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
@@ -359,11 +699,12 @@
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
-      <window_info anchor="bottom" x="1942" y="312" width="1492" height="237" id="Python Console" maximized="true" order="11" type="WINDOWED" weight="0.33521923" />
+      <window_info anchor="bottom" x="0" y="45" width="1280" height="755" id="Python Console" maximized="true" order="11" weight="0.33430657" />
+      <window_info active="true" anchor="bottom" x="84" y="278" width="1111" height="267" id="Run" order="12" visible="true" weight="0.25477707" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="1012" y="70" width="386" height="707" id="SciView" order="3" weight="0.62734586" />
+      <window_info anchor="right" x="302" y="106" width="821" height="451" id="SciView" order="3" weight="0.30185634" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -382,47 +723,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/numpy/random/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="219" selection-start-line="219" selection-end-line="219" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/matplotlib/axes/_axes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="6520" selection-start-line="6519" selection-start-column="34" selection-end-line="6520" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shelf_test02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.db.bak">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.db.dir">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1198551149/numpy/random/mtrand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="1987" column="4" selection-start-line="1987" selection-start-column="4" selection-end-line="1987" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/numpy/random/__init__.py" />
+    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/numpy/matrixlib/defmatrix.py" />
+    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/site-packages/matplotlib/axes/_axes.py" />
+    <entry file="file://$PROJECT_DIR$/shelf_test02.py" />
+    <entry file="file://$PROJECT_DIR$/test.db.bak" />
+    <entry file="file://$PROJECT_DIR$/test.db.dir" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1198551149/numpy/random/mtrand.py" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -430,55 +737,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/dbm/dumb.py" />
+    <entry file="file://C:/MyFiles/Tools/Anaconda/Lib/dbm/dumb.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1198551149/nt.py" />
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/1141041362/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/NodeState.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="272">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/MyFiles/Tools/Anaconda/envs/py37/Lib/dbm/dumb.py">
+    <entry file="file://$PROJECT_DIR$/MatrixIndividual.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="152" selection-start-line="152" selection-end-line="153" />
+        <state>
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/MyFiles/Tools/Anaconda/Lib/dbm/dumb.py">
+    <entry file="file://$PROJECT_DIR$/Data_Test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4172">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1198551149/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="542" column="4" selection-start-line="542" selection-start-column="4" selection-end-line="542" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="114">
+          <caret line="8" selection-start-line="8" selection-end-line="19" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MatrixIndividual.py">
+    <entry file="file://$PROJECT_DIR$/Data_Generate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="475">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -487,38 +786,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="1235">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/simulate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="e#109#118#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data_Generate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/constant_define.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="133">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simulate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#109#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min-min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

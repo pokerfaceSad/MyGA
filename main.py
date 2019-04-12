@@ -1,3 +1,4 @@
+import copy
 import shelve
 import matplotlib.pyplot as plt
 from functools import reduce
@@ -70,4 +71,32 @@ def run(sim_no):
         db['task_mem_list'] = task_mem_list
         db['solution'] = individual_list[0]
         db.close()
+
+
+
+    db = shelve.open(db_name)
+    node_state_list = db['node_state_list']
+    task_mem_list = db['task_mem_list']
+
+    # 根据任务分配矩阵 和 任务内存需求矩阵 对应元素相乘得到 任务需求矩阵
+    node_mem_requirement = individual_list[0].task_assign_matrix * task_mem_list.T
+    # 对node_state_list进行更新
+    # 如果内存超出剩余怎么办
+    # 1. 直接适应度降为零?
+
+    new_node_state_list = copy.deepcopy(node_state_list)
+    new_node_mem_usage_rate_list = list()
+    sum_mem_usage_rate = 0
+    for no, node_state in enumerate(node_state_list):
+        new_node_state_list[no].mem_used = node_state.mem_used + node_mem_requirement[no]
+        # 计算出所有节点的资源利用率
+        new_node_state_list[no].update_mem_usage_rate()
+        sum_mem_usage_rate += new_node_state_list[no].mem_usage_rate
+        new_node_mem_usage_rate_list.append(float(new_node_state_list[no].mem_usage_rate))
+
+    new_node_mem_usage_rate_list = sorted(new_node_mem_usage_rate_list, reverse=False)
+    x = list(range(len(new_node_mem_usage_rate_list)))
+    plt.scatter(x, new_node_mem_usage_rate_list)
+    plt.show()
+
     return 1
